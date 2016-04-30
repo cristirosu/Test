@@ -1,5 +1,5 @@
 <jboss-web>
-    <context-root>/sex</context-root>
+    <context-root>/home</context-root>
 </jboss-web>
 
 
