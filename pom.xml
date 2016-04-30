@@ -22,11 +22,12 @@
 
         <groupId>org.jboss.as.plugins</groupId>
         <artifactId>jboss-as-maven-plugin</artifactId>
-        <version>7.3.Final</version>
+        <version>7.4.Final</version>
 
         <executions>
           <execution>
           <configuration>
+            <phase>install</phase>
             <hostname>212.24.107.222</hostname>
             <username>Cristi</username>
             <password>Merdenic@1</password>
