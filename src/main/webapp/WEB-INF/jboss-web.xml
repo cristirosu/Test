@@ -1,4 +1,0 @@
-<jboss-web>
-    <context-root>/</context-root>
-    <virtual-host>www.cristi.red</virtual-host>
-</jboss-web>
