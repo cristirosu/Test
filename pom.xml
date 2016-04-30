@@ -25,7 +25,7 @@
         <version>7.3.Final</version>
 
         <configuration>
-          <hostname>www.cristi.red</hostname>
+          <hostname>212.24.107.222</hostname>
           <username>Cristi</username>
           <password>Merdenic@1</password>
           <port>9999</port>
