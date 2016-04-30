@@ -29,6 +29,7 @@
           <username>Cristi</username>
           <password>Merdenic@1</password>
           <port>9999</port>
+          <force>true</force>
         </configuration>
 
       </plugin>
