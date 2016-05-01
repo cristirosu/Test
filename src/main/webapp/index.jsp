@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Test app</h2>
+<h2>Test application</h2>
 
 </body>
 </html>
