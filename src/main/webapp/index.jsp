@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello jenkins fuck u jboss</h2>
+<h2>Test app</h2>
 
 </body>
 </html>
